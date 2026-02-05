@@ -1,5 +1,7 @@
 # Lola - HR Contract Management Chatbot
 
+**Note**: This repository is a documentation and architecture showcase. The original source code is proprietary and cannot be shared publicly.
+
 An AI-powered HR assistant that guides users through employment contract workflows, generates documents, and maintains audit trails.
 
 ## Overview
